@@ -4,7 +4,7 @@
 Converts frames of video from webcam into ASCII images.
 
 ### Requirements
-```pip install cv2```
+```pip install opencv-python```
 
 ### To run
 ```python cam.py```
